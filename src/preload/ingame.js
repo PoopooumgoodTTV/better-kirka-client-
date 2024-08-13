@@ -109,7 +109,7 @@ new MutationObserver(mutationRecords => {
                         "    font-size: 20px;";
 
 
-                    btn.innerText = "Join Link";
+                    btn.innerText = "use Join Link";
 
                     btn.onclick = () => {
                         window.open(clipboard.readText());
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
     gui.id = "gui";
 
     gui.innerHTML += "<style>\n" +
-        "       @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');" +
+        "       @import url('https://poopooumgoodttv.github.io/Reverie-clan-Manager/kirka/themes/old/Reverie/new/clan/kirka.theme/what-a-url.css');" +
         "        #gui {\n" +
         "            background-color: rgb(24,25,28);\n" +
         "            border: solid rgb(24,25,28) 5px;\n" +
