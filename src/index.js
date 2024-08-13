@@ -19,7 +19,7 @@ const createWindow = () => {
     let win = new BrowserWindow({
         width: 1900,
         height: 1000,
-        title: `Better Kirka Client`,
+        title: `Poopooumgood Kirka Client`,
         backgroundColor: '#000000',
         icon: __dirname + "/icon.ico",
         webPreferences: {
